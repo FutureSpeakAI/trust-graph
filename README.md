@@ -4,7 +4,7 @@ Personal hermeneutic trust model for AI assistants. Evidence-based. 5 dimensions
 
 ## Status
 
-Early scaffolding. Implementation lives elsewhere for now; this repo is reserved for the standalone trust model when extracted.
+Early scaffolding. The working implementation lives in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday) under `src/agent_friday/trust/` (a hash-chained evidence log and per-person trust). This repo is reserved for the standalone package when it is extracted.
 
 ## Concept
 
